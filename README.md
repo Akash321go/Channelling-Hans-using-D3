@@ -1,4 +1,6 @@
-This is a visualisation created using D3 which replicates Hans Rosling's famous bubble graph visualisation. Hans Rosling is a data visualisation legend. His 2006 TED talk, The Best Stats You’ve Ever Seen, is one of the most viewed videos on the TED website (http://bit.ly/2doLzAY). Here is a link to the live visualisation. https://akash321go.github.io/Channelling-Hans-using-D3/
+This is a visualisation created using D3 which replicates Hans Rosling's famous bubble graph visualisation. Hans Rosling is a data visualisation legend. His 2006 TED talk, The Best Stats You’ve Ever Seen, is one of the most viewed videos on the TED website (http://bit.ly/2doLzAY). Here is a link to my live visualisation. https://akash321go.github.io/Channelling-Hans-using-D3/
+
+Features of the Hans Rosling Visualisation:
 
 1. A bubble plot visualisation which represents the countries of the world
 2. Countries of the world described by GDP and Global Competitive Index mapped to x and y axis position.
