@@ -363,6 +363,10 @@ circles  //creation of circles
     
   })
  .on("mouseout", function(d){   //handles mouse-out event
+  d3.select(this)
+       .style("stroke-width", 1)
+       .transition()
+       .duration(100);
    labelInfo.remove();
 
  })
