@@ -391,6 +391,8 @@ circles  //creation of circles
                 .attr("cy", yScale(yValue[i]))
                 .style("fill", color[0])
                 .text(d.Country)
+                .transition()
+                .duration(700)
 
                 .style("opacity", 0.8)
                 .style("stroke", "black")
